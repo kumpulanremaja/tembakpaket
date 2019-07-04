@@ -12,4 +12,4 @@ python dor.py
 
 
 anda akan mendapatkan kouta internet 30 GB dengan Harga 10.000
-untuk selengkapnya di 
+untuk selengkapnya di bisa anda baca tutorialnya di https://www.kumpulanremaja.com/2019/07/tembak-paket-internet-xl-dengan-termux.html
